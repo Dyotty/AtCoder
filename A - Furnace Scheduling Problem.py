@@ -54,4 +54,7 @@ for idx, m in enumerate(machine_info):
 
 t_duration = dt.datetime.now() - t_begin
 print(t_duration)
+
+# github test
+print(t_duration)
 a = 0
