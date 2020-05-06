@@ -43,18 +43,21 @@ order_info = [get_input_int()[1:] for i in range(num_order)]
         ３．段取りを少なくする
 """
 
-# 時刻ごとの不稼働マシンリスト作成
-invalid_machine_lst = [[] for i in range(8640000)]
-for idx, m in enumerate(machine_info):
-    for day in m[3:]:
-        start = day * 86400
-        end = start + 86400
-        for i in range(start, end):
-            invalid_machine_lst[i].append(idx)
 
-t_duration = dt.datetime.now() - t_begin
-print(t_duration)
+# 日ごとの使えるマシンリスト
+invalid_machine_lst = [[] for day in range(1000)]
+for m_idx, m_info in enumerate(machine_info):
+    for rest_day in m_info[2:]:
+        invalid_machine_lst[rest_day].append(m_idx)
 
-# github test
-print(t_duration)
+
+for o in order_info:
+    pan_No = o[0]
+    max_early_time = o[1]
+    deadline = o[2]
+    production_volume = o[3]
+    min_volume_size = o[4]
+    delay_time = o[6]
+
+
 a = 0
