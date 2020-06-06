@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="325a1441-f175-4697-84f3-881d70bbac9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/A - Furnace Scheduling Problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/A - Furnace Scheduling Problem.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bGYnkttNmx7wMhKHjGgXw8ckRs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Research/Dataset_Research" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.A - Furnace Scheduling Problem">
+    <configuration name="A - Furnace Scheduling Problem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A - Furnace Scheduling Problem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC081B - Shift only" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC081B - Shift only.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC083B - Some Sums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC083B - Some Sums.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC085C - Otoshidama" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC085C - Otoshidama.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ABC087B - Coins" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC087B - Coins.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.A - Furnace Scheduling Problem" />
+        <item itemvalue="Python.ABC085C - Otoshidama" />
+        <item itemvalue="Python.ABC083B - Some Sums" />
+        <item itemvalue="Python.ABC087B - Coins" />
+        <item itemvalue="Python.ABC081B - Shift only" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="325a1441-f175-4697-84f3-881d70bbac9c" name="Default Changelist" comment="" />
+      <created>1588260066514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588260066514</updated>
+      <workItem from="1588260067572" duration="14119000" />
+      <workItem from="1588480886826" duration="2446000" />
+      <workItem from="1588503019790" duration="2806000" />
+      <workItem from="1588563761190" duration="14546000" />
+      <workItem from="1590113701845" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1425" height="608" key="DebuggerActiveHint" timestamp="1588768327410">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1425" height="608" key="DebuggerActiveHint/67.27.1853.1053@67.27.1853.1053" timestamp="1588768327410" />
+    <state x="776" y="296" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590113721217">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="296" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1590113721217" />
+    <state width="1799" height="138" key="GridCell.Tab.0.bottom" timestamp="1588933351523">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="138" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588933351523" />
+    <state width="1799" height="138" key="GridCell.Tab.0.center" timestamp="1588933351522">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="138" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588933351522" />
+    <state width="1799" height="138" key="GridCell.Tab.0.left" timestamp="1588933351522">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="138" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588933351522" />
+    <state width="1799" height="138" key="GridCell.Tab.0.right" timestamp="1588933351522">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="138" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588933351522" />
+    <state width="1799" height="138" key="GridCell.Tab.1.bottom" timestamp="1588933351523">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="138" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588933351523" />
+    <state width="1799" height="138" key="GridCell.Tab.1.center" timestamp="1588933351523">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="138" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588933351523" />
+    <state width="1799" height="138" key="GridCell.Tab.1.left" timestamp="1588933351523">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="138" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588933351523" />
+    <state width="1799" height="138" key="GridCell.Tab.1.right" timestamp="1588933351523">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1799" height="138" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588933351523" />
+    <state x="482" y="173" key="SettingsEditor" timestamp="1588563802738">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="173" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1588563802738" />
+    <state x="526" y="199" width="925" height="678" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588260908333">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="526" y="199" width="925" height="678" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1853.1053@67.27.1853.1053" timestamp="1588260908333" />
+    <state x="685" y="314" width="607" height="449" key="git4idea.merge.GitPullDialog" timestamp="1588740356072">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="685" y="314" width="607" height="449" key="git4idea.merge.GitPullDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1588740356072" />
+    <state x="656" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1588741638537">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="236" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1588741638537" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/A - Furnace Scheduling Problem.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="range(1, N + 1)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AtCoder$ABC087B___Coins.coverage" NAME="ABC087B - Coins Coverage Results" MODIFIED="1588263399537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC085C___Otoshidama.coverage" NAME="ABC085C - Otoshidama Coverage Results" MODIFIED="1588335706985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$A___Furnace_Scheduling_Problem.coverage" NAME="A - Furnace Scheduling Problem Coverage Results" MODIFIED="1588768290712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC083B___Some_Sums.coverage" NAME="ABC083B - Some Sums Coverage Results" MODIFIED="1588263663159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC081A___Placing_Marbles.coverage" NAME="ABC081A - Placing Marbles Coverage Results" MODIFIED="1588260359166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AtCoder$ABC081B___Shift_only.coverage" NAME="ABC081B - Shift only Coverage Results" MODIFIED="1588262106221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

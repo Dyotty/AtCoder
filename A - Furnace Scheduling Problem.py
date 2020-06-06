@@ -43,21 +43,75 @@ order_info = [get_input_int()[1:] for i in range(num_order)]
         ３．段取りを少なくする
 """
 
+def sec_to_day(sec):
+    return float(sec) / 86400.0
 
-# 日ごとの使えるマシンリスト
+
+def day_to_sec(day):
+    return day * 86400
+
+
+# 日ごとの使えないマシンリスト
 invalid_machine_lst = [[] for day in range(1000)]
 for m_idx, m_info in enumerate(machine_info):
     for rest_day in m_info[2:]:
         invalid_machine_lst[rest_day].append(m_idx)
 
+# BOMをパンの種類ごとに整理
+pan_info_lst = [{} for i in range(n_bread)]
+for bom in BOM_info:
+    pan_info_lst[bom[0]][bom[1]] = bom[2:]
 
+# 計画表ベースを作成
+schedule = {}
+for i in range(n_machine):
+    schedule[i] = []
+for m_idx, m_info in enumerate(machine_info):
+    for rest_day in m_info[2:]:
+        start = day_to_sec(rest_day)
+        end = start + 86399
+        schedule[m_idx].append([start, end, 2])
+
+
+# オーダーを最小単位に分割
+def divide_order(order):
+    pan_No = order[0]
+    max_early_time = order[1]
+    deadline = order[2]
+    production_volume = order[3]
+    min_volume_size = order[4]
+    delay_time = order[6]
+
+    # オーダーを極力分割
+    mini_order = order
+    mini_order[3] = min_volume_size
+    div_order_lst = [mini_order for i in range(production_volume // min_volume_size)]
+    div_order_lst[-1][3] += production_volume % min_volume_size
+    return div_order_lst
+
+
+# 計画表を参照しオーダーを割り当て
+def assign_order(order):
+    pan_No = order[0]
+    max_early_time = order[1]
+    deadline = order[2]
+    production_volume = order[3]
+    delay_time = order[6]
+
+    for m in range(n_machine):
+        production_time = pan_info_lst[pan_No][m][0]
+        end_earliest_time = max_early_time + production_time
+        production_day_lst = [sec_to_day(max_early_time), sec_to_day(end_earliest_time)]
+
+
+
+
+# オーダーを読み出し、使えるマシンに割当て
 for o in order_info:
-    pan_No = o[0]
-    max_early_time = o[1]
-    deadline = o[2]
-    production_volume = o[3]
-    min_volume_size = o[4]
-    delay_time = o[6]
+    div_orders = divide_order(o)
+
+    # 割り当てられるマシンを探索
+    # get batch_time for machine
 
 
 a = 0
